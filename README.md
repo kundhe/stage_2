@@ -1,16 +1,11 @@
-# stage2
+# Personal CV app
+It contains your personal and professional data whih can edited till your satisfaction.
 
-A new Flutter project.
 
-## Getting Started
+## Component
+- ResumePage screen: This the page the data is showcased.
+- Editalble Screen: This is the page where data can be edited
 
-This project is a starting point for a Flutter application.
+#Appetize Link
+- [Appetize](https://appetize.io/app/h26ekznexxuck3p3jz3yyqel3q?device=pixel4&osVersion=11.0&scale=75)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
